@@ -27,5 +27,5 @@ registrado, é de conhecimento que outras cifras de substituições foram utiliz
 
 
 O meu programa consegue criptografar um texto com base numa chave, ja a parte de descriptografar não precisa de chave, 
-ele passe por todas as chaves possíveis e checa palavra por palavra da frase resultante num arquivo com muitas 
+ele passa por todas as chaves possíveis e checa palavra por palavra da frase resultante num arquivo com muitas 
 palavras e ve qual frase tem mais palavras correspondentes.
